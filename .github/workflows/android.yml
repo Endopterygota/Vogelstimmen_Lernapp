@@ -27,6 +27,7 @@ jobs:
       - run: pnpm test
       - run: node scripts/check-media.mjs
       - run: pnpm android:sync
+      - run: chmod +x android/gradlew && cd android && ./gradlew :app:testDebugUnitTest --console=plain
       - run: chmod +x android/gradlew && cd android && ./gradlew assembleDebug --console=plain
       - uses: actions/upload-artifact@v4
         with:

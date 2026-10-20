@@ -17,6 +17,16 @@ const names = {
   blaumeise: 'Blaumeise',
   haussperling: 'Haussperling',
   zilpzalp: 'Zilpzalp',
+  buchfink: 'Buchfink',
+  ringeltaube: 'Ringeltaube',
+  tuerkentaube: 'Türkentaube',
+  kuckuck: 'Kuckuck',
+  kleiber: 'Kleiber',
+  buntspecht: 'Buntspecht',
+  elster: 'Elster',
+  rabenkraehe: 'Rabenkrähe',
+  stockente: 'Stockente',
+  mauersegler: 'Mauersegler',
 };
 const media = JSON.parse(readFileSync('src/data/media.json', 'utf8'));
 const context = await browser.newContext({
@@ -41,11 +51,19 @@ try {
     .getByRole('navigation', { name: 'Hauptnavigation' })
     .getByRole('button', { name: 'Vögel', exact: true })
     .click();
-  assert.equal(await page.locator('.bird-card').count(), 10);
+  assert.equal(await page.locator('.bird-card').count(), Object.keys(names).length);
   for (const [id, name] of Object.entries(names)) {
     await page.getByLabel('Vogel suchen').fill(name);
     await page.locator('.bird-card').first().click();
     await page.getByRole('heading', { name, exact: true }).waitFor();
+    for (const width of [320, 360, 390, 412]) {
+      await page.setViewportSize({ width, height: 844 });
+      assert(
+        await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth),
+        `${id}: Steckbrief läuft bei ${width}px über`,
+      );
+    }
+    await page.setViewportSize({ width: 360, height: 844 });
     const image = page.locator('.detail-photo img');
     assert(
       await image.evaluate(async (img) => {
@@ -55,6 +73,12 @@ try {
       `${id}: Foto`,
     );
     const audio = page.locator('audio');
+    await page.locator('.audio-credit summary').click();
+    assert(
+      await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth),
+      `${id}: Quellen laufen über`,
+    );
+    await page.locator('.audio-credit summary').click();
     await page.waitForFunction(() => Number.isFinite(document.querySelector('audio')?.duration));
     assert(await audio.evaluate((a) => a.duration > 0), `${id}: Audio-Metadaten`);
     await page.getByRole('button', { name: 'Aufnahme abspielen', exact: true }).click();
@@ -145,7 +169,7 @@ try {
     .getByRole('button', { name: 'Quellen & Lizenzen', exact: true })
     .filter({ visible: true })
     .click();
-  assert.equal(await page.locator('.sources-card').count(), 10);
+  assert.equal(await page.locator('.sources-card').count(), Object.keys(names).length);
   await page
     .locator('.sources-card')
     .first()
@@ -171,7 +195,7 @@ try {
   );
   assert.deepEqual(errors, []);
   console.log(
-    'OK: 10 Steckbriefe, alle Audios decodiert, Playback, 5-Fragen-Quiz, Hörkarten, Persistenz, Quellen, Dunkelmodus, 360/390/1440px; keine externen Requests nötig.',
+    'OK: 20 Steckbriefe ohne seitlichen Überlauf bei 320/360/390/412px, alle Audios decodiert, Playback, Quiz, Hörkarten, Persistenz, Quellen, Dunkelmodus; keine externen Requests nötig.',
   );
 } finally {
   await browser.close();

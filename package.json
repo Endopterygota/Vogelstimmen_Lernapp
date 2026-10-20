@@ -1,14 +1,15 @@
 {
   "name": "vogelstimmen-lernapp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite --host 127.0.0.1",
+    "dev": "vite --host 127.0.0.2",
     "build": "tsc -b && vite build",
-    "preview": "vite preview --host 127.0.0.1",
+    "preview": "vite preview --host 127.0.0.2",
     "test": "vitest run",
     "test:ui": "node scripts/smoke-test.mjs",
+    "test:updates": "node scripts/update-smoke-test.mjs",
     "format": "prettier --write src scripts/*.mjs *.ts *.json *.html .github/workflows/*.yml README.md",
     "android:sync": "pnpm build && cap sync android",
     "android:apk": "powershell -ExecutionPolicy Bypass -File scripts/build-android.ps1"

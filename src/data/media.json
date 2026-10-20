@@ -1070,5 +1070,1096 @@
       "size": 2947259,
       "path": "/media/zilpzalp-960.jpg"
     }
+  },
+  "buchfink": {
+    "recordings": [
+      {
+        "title": "File:XC176182 - Vink - Fringilla coelebs.ogg",
+        "author": "Sander Pieterse",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:XC176182_-_Vink_-_Fringilla_coelebs.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/XC176182_-_Vink_-_Fringilla_coelebs.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/68/XC176182_-_Vink_-_Fringilla_coelebs.ogg/XC176182_-_Vink_-_Fringilla_coelebs.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/XC176182_-_Vink_-_Fringilla_coelebs.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 74736
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/68/XC176182_-_Vink_-_Fringilla_coelebs.ogg/XC176182_-_Vink_-_Fringilla_coelebs.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 126552
+          }
+        ],
+        "description": "Vink (Fringilla coelebs) · song",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 352231,
+        "path": "/media/buchfink-11c67f42b3.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Fringilla coelebs singing in Norfolk, England.ogg",
+        "author": "Adam Clark",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fringilla_coelebs_singing_in_Norfolk,_England.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Fringilla_coelebs_singing_in_Norfolk%2C_England.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/Fringilla_coelebs_singing_in_Norfolk%2C_England.ogg/Fringilla_coelebs_singing_in_Norfolk%2C_England.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Fringilla_coelebs_singing_in_Norfolk%2C_England.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 94587
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/Fringilla_coelebs_singing_in_Norfolk%2C_England.ogg/Fringilla_coelebs_singing_in_Norfolk%2C_England.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 217368
+          }
+        ],
+        "description": "A field recording of a Chaffinch singing in Norfolk, England, United Kingdom, on 11 March 2011",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 686541,
+        "path": "/media/buchfink-ac9ce442d3.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Fringilla coelebs song.ogg",
+        "author": "Amada44",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fringilla_coelebs_song.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Fringilla_coelebs_song.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/Fringilla_coelebs_song.ogg/Fringilla_coelebs_song.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Fringilla_coelebs_song.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 49936
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bb/Fringilla_coelebs_song.ogg/Fringilla_coelebs_song.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 80560
+          }
+        ],
+        "description": "Fringilla coelebs   song, recorded in Corsica",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 798825,
+        "path": "/media/buchfink-e49b22c2d4.mp3",
+        "kind": "Gesang"
+      }
+    ],
+    "image": {
+      "title": "File:Chaffinch (Fringilla coelebs).jpg",
+      "author": "Andreas Trepte",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chaffinch_(Fringilla_coelebs).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Chaffinch_%28Fringilla_coelebs%29.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Chaffinch_%28Fringilla_coelebs%29.jpg/960px-Chaffinch_%28Fringilla_coelebs%29.jpg",
+      "derivatives": [],
+      "description": "Chaffinch",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 2085,
+      "height": 1390,
+      "size": 771228,
+      "path": "/media/buchfink-960.jpg"
+    }
+  },
+  "ringeltaube": {
+    "recordings": [
+      {
+        "title": "File:Columba palumbus birdsong.ogg",
+        "author": "Oona Räisänen ( Mysid )",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Columba_palumbus_birdsong.ogg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Columba_palumbus_birdsong.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Columba_palumbus_birdsong.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/12/Columba_palumbus_birdsong.ogg/Columba_palumbus_birdsong.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Columba_palumbus_birdsong.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 56946
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/12/Columba_palumbus_birdsong.ogg/Columba_palumbus_birdsong.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 186960
+          }
+        ],
+        "description": "A  Wood Pigeon  ( Columba palumbus ) singing in Southern Finland. Also a magpie in the background.",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 82821,
+        "path": "/media/ringeltaube-1ad93fbfaf.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Ringeltaube (ruft).ogg",
+        "author": "Sleepytomcat  (Jens Kraglund)",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Ringeltaube_(ruft).ogg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ringeltaube_(ruft).ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ringeltaube_%28ruft%29.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/Ringeltaube_%28ruft%29.ogg/Ringeltaube_%28ruft%29.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ringeltaube_%28ruft%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 161762
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/77/Ringeltaube_%28ruft%29.ogg/Ringeltaube_%28ruft%29.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 221496
+          }
+        ],
+        "description": "Ringeltaube, Ruf, Lautäußerung",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 174306,
+        "path": "/media/ringeltaube-02a63142a3.mp3",
+        "kind": "Ruf"
+      }
+    ],
+    "image": {
+      "title": "File:Pigeon ramier (Columba palumbus), Colmar, Haut-Rhin, France (1).jpg",
+      "author": "Gzen92",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pigeon_ramier_(Columba_palumbus),_Colmar,_Haut-Rhin,_France_(1).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Pigeon_ramier_%28Columba_palumbus%29%2C_Colmar%2C_Haut-Rhin%2C_France_%281%29.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Pigeon_ramier_%28Columba_palumbus%29%2C_Colmar%2C_Haut-Rhin%2C_France_%281%29.jpg/960px-Pigeon_ramier_%28Columba_palumbus%29%2C_Colmar%2C_Haut-Rhin%2C_France_%281%29.jpg",
+      "derivatives": [],
+      "description": "Common wood pigeon ( Columba palumbus ) in Colmar (Haut-Rhin, France).",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 5472,
+      "height": 3648,
+      "size": 4343379,
+      "path": "/media/ringeltaube-960-54499828.jpg"
+    }
+  },
+  "tuerkentaube": {
+    "recordings": [
+      {
+        "title": "File:Streptopelia decaocto - Eurasian Collared Dove - XC82758.ogg",
+        "author": "Jonathon Jongsma",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Streptopelia_decaocto_-_Eurasian_Collared_Dove_-_XC82758.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Streptopelia_decaocto_-_Eurasian_Collared_Dove_-_XC82758.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/Streptopelia_decaocto_-_Eurasian_Collared_Dove_-_XC82758.ogg/Streptopelia_decaocto_-_Eurasian_Collared_Dove_-_XC82758.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Streptopelia_decaocto_-_Eurasian_Collared_Dove_-_XC82758.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 111321
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/Streptopelia_decaocto_-_Eurasian_Collared_Dove_-_XC82758.ogg/Streptopelia_decaocto_-_Eurasian_Collared_Dove_-_XC82758.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 161912
+          }
+        ],
+        "description": "Species    Eurasian Collared Dove  (  Streptopelia decaocto  )  \n  Recordist  Jonathon Jongsma \n  Remarks  singing atop chapel building on college campus \n  Location  Dordt College Campus, Sioux, IA \n  Elevation  425 m \n  Country  United States",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 194436,
+        "path": "/media/tuerkentaube-b3d6604e0c.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Tourterelle.ogg",
+        "author": "Alacave62",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tourterelle.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Tourterelle.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c6/Tourterelle.ogg/Tourterelle.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Tourterelle.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 111748
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c6/Tourterelle.ogg/Tourterelle.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 168832
+          }
+        ],
+        "description": "ornitho'log",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 133428,
+        "path": "/media/tuerkentaube-d4bea5ca38.mp3",
+        "kind": "Ruf"
+      },
+      {
+        "title": "File:Кольчатая Горлица.ogg",
+        "author": "Warper up",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D0%B0%D1%8F_%D0%93%D0%BE%D1%80%D0%BB%D0%B8%D1%86%D0%B0.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/%D0%9A%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D0%B0%D1%8F_%D0%93%D0%BE%D1%80%D0%BB%D0%B8%D1%86%D0%B0.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/%D0%9A%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D0%B0%D1%8F_%D0%93%D0%BE%D1%80%D0%BB%D0%B8%D1%86%D0%B0.ogg/%D0%9A%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D0%B0%D1%8F_%D0%93%D0%BE%D1%80%D0%BB%D0%B8%D1%86%D0%B0.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/%D0%9A%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D0%B0%D1%8F_%D0%93%D0%BE%D1%80%D0%BB%D0%B8%D1%86%D0%B0.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 192454
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dc/%D0%9A%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D0%B0%D1%8F_%D0%93%D0%BE%D1%80%D0%BB%D0%B8%D1%86%D0%B0.ogg/%D0%9A%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D0%B0%D1%8F_%D0%93%D0%BE%D1%80%D0%BB%D0%B8%D1%86%D0%B0.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 147888
+          }
+        ],
+        "description": "запись сделана на Кипре.",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 230630,
+        "path": "/media/tuerkentaube-de075128e5.mp3",
+        "kind": "Ruf"
+      }
+    ],
+    "image": {
+      "title": "File:Streptopelia decaocto - Eurasian Collared Dove, Adana 2016-12-31 01-2.jpg",
+      "author": "Zeynel Cebeci",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Streptopelia_decaocto_-_Eurasian_Collared_Dove,_Adana_2016-12-31_01-2.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Streptopelia_decaocto_-_Eurasian_Collared_Dove%2C_Adana_2016-12-31_01-2.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Streptopelia_decaocto_-_Eurasian_Collared_Dove%2C_Adana_2016-12-31_01-2.jpg/960px-Streptopelia_decaocto_-_Eurasian_Collared_Dove%2C_Adana_2016-12-31_01-2.jpg",
+      "derivatives": [],
+      "description": "An Eurasian Collared Dove ( Streptopelia decaocto ). Eskibaraj Dam Lake, Adana - Turkey.",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 2250,
+      "height": 1500,
+      "size": 2156098,
+      "path": "/media/tuerkentaube-960-6436bfc6.jpg"
+    }
+  },
+  "kuckuck": {
+    "recordings": [
+      {
+        "title": "File:Cuculus canorus v01.ogg",
+        "author": "Σ64",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cuculus_canorus_v01.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cuculus_canorus_v01.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/Cuculus_canorus_v01.ogg/Cuculus_canorus_v01.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Cuculus_canorus_v01.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 94753
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/44/Cuculus_canorus_v01.ogg/Cuculus_canorus_v01.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 120528
+          }
+        ],
+        "description": "A song of   Common Cuckoo",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 467813,
+        "path": "/media/kuckuck-09fa21af97.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Common Cuckoo (Cuculus canorus) (W1CDR0001463 BD1).ogg",
+        "author": "Williams, Aubrey John / © The British Library Board",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Cuckoo_(Cuculus_canorus)_(W1CDR0001463_BD1).ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Common_Cuckoo_%28Cuculus_canorus%29_%28W1CDR0001463_BD1%29.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a4/Common_Cuckoo_%28Cuculus_canorus%29_%28W1CDR0001463_BD1%29.ogg/Common_Cuckoo_%28Cuculus_canorus%29_%28W1CDR0001463_BD1%29.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Common_Cuckoo_%28Cuculus_canorus%29_%28W1CDR0001463_BD1%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 211168
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a4/Common_Cuckoo_%28Cuculus_canorus%29_%28W1CDR0001463_BD1%29.ogg/Common_Cuckoo_%28Cuculus_canorus%29_%28W1CDR0001463_BD1%29.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 134288
+          }
+        ],
+        "description": "The song of a Common Cuckoo, recorded at Frensham Great Pond, Surrey, England",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 1065006,
+        "path": "/media/kuckuck-625deab6e2.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Kuckuck.ogg",
+        "author": "Jugrü",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kuckuck.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Kuckuck.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/33/Kuckuck.ogg/Kuckuck.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Kuckuck.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 92426
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/33/Kuckuck.ogg/Kuckuck.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 144392
+          }
+        ],
+        "description": "Kuckuck (  Cuculus canorus  ) singt.",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 70485,
+        "path": "/media/kuckuck-e1fb440091.mp3",
+        "kind": "Ruf"
+      }
+    ],
+    "image": {
+      "title": "File:A Common Cuckoo (Cuculus canorus) in flight carrying a caterpillar in Jhor, Kathmandu Valley.jpg",
+      "author": "Sunuwargr",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:A_Common_Cuckoo_(Cuculus_canorus)_in_flight_carrying_a_caterpillar_in_Jhor,_Kathmandu_Valley.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/A_Common_Cuckoo_%28Cuculus_canorus%29_in_flight_carrying_a_caterpillar_in_Jhor%2C_Kathmandu_Valley.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/A_Common_Cuckoo_%28Cuculus_canorus%29_in_flight_carrying_a_caterpillar_in_Jhor%2C_Kathmandu_Valley.jpg/960px-A_Common_Cuckoo_%28Cuculus_canorus%29_in_flight_carrying_a_caterpillar_in_Jhor%2C_Kathmandu_Valley.jpg",
+      "derivatives": [],
+      "description": "A Common Cuckoo (Cuculus canorus) captured mid-flight carrying a freshly caught caterpillar in its beak, over the Jhor area of the Kathmandu Valley. This dynamic scene was photographed within the buffer zone of Shivapuri Nagarjun National Park",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 7068,
+      "height": 4712,
+      "size": 18006148,
+      "path": "/media/kuckuck-960-2d28940b.jpg"
+    }
+  },
+  "kleiber": {
+    "recordings": [
+      {
+        "title": "File:Sitta europaea.ogg",
+        "author": "Vladimir Yu. Arkhipov, Arkhivov",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sitta_europaea.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sitta_europaea.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bc/Sitta_europaea.ogg/Sitta_europaea.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sitta_europaea.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 101031
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bc/Sitta_europaea.ogg/Sitta_europaea.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 120024
+          }
+        ],
+        "description": "Song of Eurasian Nuthatch, Tula region,  Russia",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 76664,
+        "path": "/media/kleiber-45eee65891.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Eurasian Nuthatch (Sitta europaea) (W1CDR0001520 BD24).ogg",
+        "author": "Williams, Aubrey John / © The British Library Board",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eurasian_Nuthatch_(Sitta_europaea)_(W1CDR0001520_BD24).ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eurasian_Nuthatch_%28Sitta_europaea%29_%28W1CDR0001520_BD24%29.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/Eurasian_Nuthatch_%28Sitta_europaea%29_%28W1CDR0001520_BD24%29.ogg/Eurasian_Nuthatch_%28Sitta_europaea%29_%28W1CDR0001520_BD24%29.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Eurasian_Nuthatch_%28Sitta_europaea%29_%28W1CDR0001520_BD24%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 204765
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/45/Eurasian_Nuthatch_%28Sitta_europaea%29_%28W1CDR0001520_BD24%29.ogg/Eurasian_Nuthatch_%28Sitta_europaea%29_%28W1CDR0001520_BD24%29.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 129408
+          }
+        ],
+        "description": "Song of an Eurasian Nuthatch, recorded at Frensham Great Pond, Surrey, England",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 1960090,
+        "path": "/media/kleiber-2c081e3770.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:XC164989 - Boomklever - Sitta europaea caesia.ogg",
+        "author": "Sander Pieterse",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:XC164989_-_Boomklever_-_Sitta_europaea_caesia.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/XC164989_-_Boomklever_-_Sitta_europaea_caesia.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bd/XC164989_-_Boomklever_-_Sitta_europaea_caesia.ogg/XC164989_-_Boomklever_-_Sitta_europaea_caesia.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/XC164989_-_Boomklever_-_Sitta_europaea_caesia.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 74228
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/bd/XC164989_-_Boomklever_-_Sitta_europaea_caesia.ogg/XC164989_-_Boomklever_-_Sitta_europaea_caesia.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 126080
+          }
+        ],
+        "description": "Boomklever (Sitta europaea caesia) · call",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 289046,
+        "path": "/media/kleiber-26214857a6.mp3",
+        "kind": "Ruf"
+      }
+    ],
+    "image": {
+      "title": "File:Eurasian nuthatch (Sitta europaea caesia).jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eurasian_nuthatch_(Sitta_europaea_caesia).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Eurasian_nuthatch_%28Sitta_europaea_caesia%29.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Eurasian_nuthatch_%28Sitta_europaea_caesia%29.jpg/960px-Eurasian_nuthatch_%28Sitta_europaea_caesia%29.jpg",
+      "derivatives": [],
+      "description": "Eurasian nuthatch ( Sitta europaea caesia ), near Kecskemét, Hungary",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 3912,
+      "height": 2608,
+      "size": 5546303,
+      "path": "/media/kleiber-960.jpg"
+    }
+  },
+  "buntspecht": {
+    "recordings": [
+      {
+        "title": "File:XC47350 - Grote Bonte Specht - Dendrocopos major.ogg",
+        "author": "Sander Pieterse",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:XC47350_-_Grote_Bonte_Specht_-_Dendrocopos_major.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/XC47350_-_Grote_Bonte_Specht_-_Dendrocopos_major.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cc/XC47350_-_Grote_Bonte_Specht_-_Dendrocopos_major.ogg/XC47350_-_Grote_Bonte_Specht_-_Dendrocopos_major.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/XC47350_-_Grote_Bonte_Specht_-_Dendrocopos_major.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 82066
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cc/XC47350_-_Grote_Bonte_Specht_-_Dendrocopos_major.ogg/XC47350_-_Grote_Bonte_Specht_-_Dendrocopos_major.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 128936
+          }
+        ],
+        "description": "Grote Bonte Specht (Dendrocopos major) · call",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 362300,
+        "path": "/media/buntspecht-eaa14efe41.mp3",
+        "kind": "Ruf"
+      },
+      {
+        "title": "File:Woodpeckerdrum.ogg",
+        "author": "Scalytail",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Woodpeckerdrum.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Woodpeckerdrum.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Woodpeckerdrum.ogg/Woodpeckerdrum.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Woodpeckerdrum.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 121521
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d9/Woodpeckerdrum.ogg/Woodpeckerdrum.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 270912
+          }
+        ],
+        "description": "A recording of a Great Spotted Woodpecker drumming against a tree.",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 8628,
+        "path": "/media/buntspecht-b84e957718.mp3",
+        "kind": "Trommeln"
+      },
+      {
+        "title": "File:Great Spotted Woodpecker drum.ogg",
+        "author": "T.Voekler",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Spotted_Woodpecker_drum.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Great_Spotted_Woodpecker_drum.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/40/Great_Spotted_Woodpecker_drum.ogg/Great_Spotted_Woodpecker_drum.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Great_Spotted_Woodpecker_drum.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 238748
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/40/Great_Spotted_Woodpecker_drum.ogg/Great_Spotted_Woodpecker_drum.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 130456
+          }
+        ],
+        "description": "Great Spotted Woodpecker drum. (Dendrocopos major)",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 168663,
+        "path": "/media/buntspecht-c2f907ee24.mp3",
+        "kind": "Trommeln"
+      }
+    ],
+    "image": {
+      "title": "File:Great Spotted Woodpecker - Dendrocopos major - Female (53977587513).jpg",
+      "author": "caroline legg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Spotted_Woodpecker_-_Dendrocopos_major_-_Female_(53977587513).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Great_Spotted_Woodpecker_-_Dendrocopos_major_-_Female_%2853977587513%29.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Great_Spotted_Woodpecker_-_Dendrocopos_major_-_Female_%2853977587513%29.jpg/960px-Great_Spotted_Woodpecker_-_Dendrocopos_major_-_Female_%2853977587513%29.jpg",
+      "derivatives": [],
+      "description": "Dendrocopos major - North Yorkshire",
+      "changes": "Vorschaufassung von Wikimedia Commons (bis 960 Pixel). Darstellung in der App teilweise beschnitten.",
+      "width": 3111,
+      "height": 2222,
+      "size": 7444950,
+      "path": "/media/buntspecht-960-991247d1.jpg"
+    }
+  },
+  "elster": {
+    "recordings": [
+      {
+        "title": "File:Elsterrevierschrei.ogg",
+        "author": "PhilippConBe",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elsterrevierschrei.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Elsterrevierschrei.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/Elsterrevierschrei.ogg/Elsterrevierschrei.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Elsterrevierschrei.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 134686
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/Elsterrevierschrei.ogg/Elsterrevierschrei.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 125608
+          }
+        ],
+        "description": "Eine in einem Pärchen befindliche Elster markiert ihr Revier, wobei sie auf einem der höchsten Bäume der Umgebung sitzt.",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 122067,
+        "path": "/media/elster-acd4368ebd.mp3",
+        "kind": "Ruf"
+      },
+      {
+        "title": "File:Pica pica.ogg",
+        "author": "Oona Räisänen ( Mysid )",
+        "license": "Public domain",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pica_pica.ogg",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pica_pica.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Pica_pica.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b6/Pica_pica.ogg/Pica_pica.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Pica_pica.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 58870
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b6/Pica_pica.ogg/Pica_pica.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 171624
+          }
+        ],
+        "description": "Two different sounds made by a  w:European Magpie  ( Pica pica ) in a backyard in Southern Finland. Also a House Sparrow in the background.",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 194687,
+        "path": "/media/elster-b5c7d69ca8.mp3",
+        "kind": "Ruf"
+      },
+      {
+        "title": "File:Eurasian Magpie (Pica pica) (W1CDR0001537 BD28).ogg",
+        "author": "Williams, Aubrey John / © The British Library Board",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eurasian_Magpie_(Pica_pica)_(W1CDR0001537_BD28).ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Eurasian_Magpie_%28Pica_pica%29_%28W1CDR0001537_BD28%29.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f6/Eurasian_Magpie_%28Pica_pica%29_%28W1CDR0001537_BD28%29.ogg/Eurasian_Magpie_%28Pica_pica%29_%28W1CDR0001537_BD28%29.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Eurasian_Magpie_%28Pica_pica%29_%28W1CDR0001537_BD28%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 211771
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f6/Eurasian_Magpie_%28Pica_pica%29_%28W1CDR0001537_BD28%29.ogg/Eurasian_Magpie_%28Pica_pica%29_%28W1CDR0001537_BD28%29.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 136584
+          }
+        ],
+        "description": "Call uttered by a Eurasian Magpie, recorded on Pinbury Park, Gloucestershire, England",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 2417853,
+        "path": "/media/elster-959665722e.mp3",
+        "kind": "Ruf"
+      }
+    ],
+    "image": {
+      "title": "File:Common magpie (Pica pica).jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_magpie_(Pica_pica).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Common_magpie_%28Pica_pica%29.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Common_magpie_%28Pica_pica%29.jpg/960px-Common_magpie_%28Pica_pica%29.jpg",
+      "derivatives": [],
+      "description": "Common magpie ( Pica pica ), Cumnor Hill, Oxford",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 4470,
+      "height": 2980,
+      "size": 6757876,
+      "path": "/media/elster-960-4f74c5da.jpg"
+    }
+  },
+  "rabenkraehe": {
+    "recordings": [
+      {
+        "title": "File:XC24828 - Zwarte Kraai - Corvus corone.ogg",
+        "author": "Sander Pieterse",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:XC24828_-_Zwarte_Kraai_-_Corvus_corone.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/XC24828_-_Zwarte_Kraai_-_Corvus_corone.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/XC24828_-_Zwarte_Kraai_-_Corvus_corone.ogg/XC24828_-_Zwarte_Kraai_-_Corvus_corone.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/XC24828_-_Zwarte_Kraai_-_Corvus_corone.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 80368
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/d8/XC24828_-_Zwarte_Kraai_-_Corvus_corone.ogg/XC24828_-_Zwarte_Kraai_-_Corvus_corone.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 130664
+          }
+        ],
+        "description": "Zwarte Kraai (Corvus corone) · call",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 87388,
+        "path": "/media/rabenkraehe-4f0468f93a.mp3",
+        "kind": "Ruf"
+      },
+      {
+        "title": "File:Carrion Crow (Corvus corone) (W1CDR0001425 BD18).ogg",
+        "author": "Shove, Lawrence / © The British Library Board",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carrion_Crow_(Corvus_corone)_(W1CDR0001425_BD18).ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Carrion_Crow_%28Corvus_corone%29_%28W1CDR0001425_BD18%29.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8a/Carrion_Crow_%28Corvus_corone%29_%28W1CDR0001425_BD18%29.ogg/Carrion_Crow_%28Corvus_corone%29_%28W1CDR0001425_BD18%29.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Carrion_Crow_%28Corvus_corone%29_%28W1CDR0001425_BD18%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 226041
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8a/Carrion_Crow_%28Corvus_corone%29_%28W1CDR0001425_BD18%29.ogg/Carrion_Crow_%28Corvus_corone%29_%28W1CDR0001425_BD18%29.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 134888
+          }
+        ],
+        "description": "The call of a Carrion Crow recorded in a garden at Culver, near Exeter, Devon, England",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 704542,
+        "path": "/media/rabenkraehe-5000949955.mp3",
+        "kind": "Ruf"
+      }
+    ],
+    "image": {
+      "title": "File:Annecy - Corvus Corone - 20111230 - 02.JPG",
+      "author": "PierreSelim",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Annecy_-_Corvus_Corone_-_20111230_-_02.JPG",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Annecy_-_Corvus_Corone_-_20111230_-_02.JPG",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Annecy_-_Corvus_Corone_-_20111230_-_02.JPG/960px-Annecy_-_Corvus_Corone_-_20111230_-_02.JPG",
+      "derivatives": [],
+      "description": "Carrion crows on a trash in Annecy on December 30th, 2011",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 3813,
+      "height": 2542,
+      "size": 4607423,
+      "path": "/media/rabenkraehe-960.jpg"
+    }
+  },
+  "stockente": {
+    "recordings": [
+      {
+        "title": "File:Mallard (Anas platyrhynchos) (W1CDR0001518 BD17).ogg",
+        "author": "Williams, Aubrey John / © The British Library Board",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mallard_(Anas_platyrhynchos)_(W1CDR0001518_BD17).ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Mallard_%28Anas_platyrhynchos%29_%28W1CDR0001518_BD17%29.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/Mallard_%28Anas_platyrhynchos%29_%28W1CDR0001518_BD17%29.ogg/Mallard_%28Anas_platyrhynchos%29_%28W1CDR0001518_BD17%29.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Mallard_%28Anas_platyrhynchos%29_%28W1CDR0001518_BD17%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 211240
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/95/Mallard_%28Anas_platyrhynchos%29_%28W1CDR0001518_BD17%29.ogg/Mallard_%28Anas_platyrhynchos%29_%28W1CDR0001518_BD17%29.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 132032
+          }
+        ],
+        "description": "The calls of a female Mallard, recorded at Rye Grove, Surrey, England",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 934313,
+        "path": "/media/stockente-15bd27ffc0.mp3",
+        "kind": "Ruf"
+      },
+      {
+        "title": "File:Кряква в Лаздинае.ogg",
+        "author": "Кашеед",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D1%8F%D0%BA%D0%B2%D0%B0_%D0%B2_%D0%9B%D0%B0%D0%B7%D0%B4%D0%B8%D0%BD%D0%B0%D0%B5.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/%D0%9A%D1%80%D1%8F%D0%BA%D0%B2%D0%B0_%D0%B2_%D0%9B%D0%B0%D0%B7%D0%B4%D0%B8%D0%BD%D0%B0%D0%B5.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/%D0%9A%D1%80%D1%8F%D0%BA%D0%B2%D0%B0_%D0%B2_%D0%9B%D0%B0%D0%B7%D0%B4%D0%B8%D0%BD%D0%B0%D0%B5.ogg/%D0%9A%D1%80%D1%8F%D0%BA%D0%B2%D0%B0_%D0%B2_%D0%9B%D0%B0%D0%B7%D0%B4%D0%B8%D0%BD%D0%B0%D0%B5.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/%D0%9A%D1%80%D1%8F%D0%BA%D0%B2%D0%B0_%D0%B2_%D0%9B%D0%B0%D0%B7%D0%B4%D0%B8%D0%BD%D0%B0%D0%B5.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 72600
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c9/%D0%9A%D1%80%D1%8F%D0%BA%D0%B2%D0%B0_%D0%B2_%D0%9B%D0%B0%D0%B7%D0%B4%D0%B8%D0%BD%D0%B0%D0%B5.ogg/%D0%9A%D1%80%D1%8F%D0%BA%D0%B2%D0%B0_%D0%B2_%D0%9B%D0%B0%D0%B7%D0%B4%D0%B8%D0%BD%D0%B0%D0%B5.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 127272
+          }
+        ],
+        "description": "Кряква в Лаздинае, 5:49 15 августа 2022",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 46888,
+        "path": "/media/stockente-87d7d32e22.mp3",
+        "kind": "Ruf"
+      },
+      {
+        "title": "File:Anas platyrhynchos - Mallard - XC62258.ogg",
+        "author": "Jonathon Jongsma",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_-_Mallard_-_XC62258.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Anas_platyrhynchos_-_Mallard_-_XC62258.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fa/Anas_platyrhynchos_-_Mallard_-_XC62258.ogg/Anas_platyrhynchos_-_Mallard_-_XC62258.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Anas_platyrhynchos_-_Mallard_-_XC62258.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 123502
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fa/Anas_platyrhynchos_-_Mallard_-_XC62258.ogg/Anas_platyrhynchos_-_Mallard_-_XC62258.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 205856
+          }
+        ],
+        "description": "Species    Mallard  (  Anas platyrhynchos  )  \n  Recordist  Jonathon Jongsma \n  Location  Powderhorn Park, Minneapolis, MN \n  Elevation  250 m \n  Country  United States",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 53498,
+        "path": "/media/stockente-30b8c7e67e.mp3",
+        "kind": "Ruf"
+      }
+    ],
+    "image": {
+      "title": "File:Anas platyrhynchos - Zoo de Madrid - 02.jpg",
+      "author": "Carlos Delgado",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_-_Zoo_de_Madrid_-_02.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Anas_platyrhynchos_-_Zoo_de_Madrid_-_02.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Anas_platyrhynchos_-_Zoo_de_Madrid_-_02.jpg/960px-Anas_platyrhynchos_-_Zoo_de_Madrid_-_02.jpg",
+      "derivatives": [],
+      "description": "Free mallard ( Anas platyrhynchos ) in the Zoo of Madrid, Spain.",
+      "changes": "Vorschaufassung von Wikimedia Commons (bis 960 Pixel). Darstellung in der App teilweise beschnitten.",
+      "width": 3648,
+      "height": 2432,
+      "size": 5726046,
+      "path": "/media/stockente-960-798f2342.jpg"
+    }
+  },
+  "mauersegler": {
+    "recordings": [
+      {
+        "title": "File:Apus apus - Common Swift XC554033.mp3",
+        "author": "Luis Alvarez Menendez",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apus_apus_-_Common_Swift_XC554033.mp3",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Apus_apus_-_Common_Swift_XC554033.mp3",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Apus_apus_-_Common_Swift_XC554033.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Apus_apus_-_Common_Swift_XC554033.mp3?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/mpeg",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 109259
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/ce/Apus_apus_-_Common_Swift_XC554033.mp3/Apus_apus_-_Common_Swift_XC554033.mp3.ogg",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "transcodekey": "ogg",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 81600
+          }
+        ],
+        "description": ":bird-seen:yes\n  playback-used:no \n  Common name:  Common Swift \n  Type:  flight call, life stage uncertain, sex uncertain \n  Genus:  Apus \n  Species:  apus \n  Location:  Oviedo, Asturias, Principado de Asturias \n  Country:  Spain \n  Elevation:  400 m",
+        "changes": "Unveränderte Originaldatei.",
+        "width": 0,
+        "height": 0,
+        "size": 144218,
+        "path": "/media/mauersegler-96943e9611.mp3",
+        "kind": "Ruf"
+      },
+      {
+        "title": "File:Jerzyki głosy ze skrzynki lęgowej; Apus Apus; common swift's voice inside the nesting box.ogg",
+        "author": "Amikosik",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerzyki_g%C5%82osy_ze_skrzynki_l%C4%99gowej;_Apus_Apus;_common_swift%27s_voice_inside_the_nesting_box.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Jerzyki_g%C5%82osy_ze_skrzynki_l%C4%99gowej%3B_Apus_Apus%3B_common_swift%27s_voice_inside_the_nesting_box.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/Jerzyki_g%C5%82osy_ze_skrzynki_l%C4%99gowej%3B_Apus_Apus%3B_common_swift%27s_voice_inside_the_nesting_box.ogg/Jerzyki_g%C5%82osy_ze_skrzynki_l%C4%99gowej%3B_Apus_Apus%3B_common_swift%27s_voice_inside_the_nesting_box.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Jerzyki_g%C5%82osy_ze_skrzynki_l%C4%99gowej%3B_Apus_Apus%3B_common_swift%27s_voice_inside_the_nesting_box.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 50177
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8f/Jerzyki_g%C5%82osy_ze_skrzynki_l%C4%99gowej%3B_Apus_Apus%3B_common_swift%27s_voice_inside_the_nesting_box.ogg/Jerzyki_g%C5%82osy_ze_skrzynki_l%C4%99gowej%3B_Apus_Apus%3B_common_swift%27s_voice_inside_the_nesting_box.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 126824
+          }
+        ],
+        "description": "Gloy jerzyków ze sprzynki lęgowej",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 227285,
+        "path": "/media/mauersegler-d50c63e34d.mp3",
+        "kind": "Ruf"
+      }
+    ],
+    "image": {
+      "title": "File:Apus apus flying.jpg",
+      "author": "pau.artigas",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apus_apus_flying.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Apus_apus_flying.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Apus_apus_flying.jpg",
+      "derivatives": [],
+      "description": "A Common Swift flying in Barcelona, Spain.",
+      "changes": "Vorschaufassung von Wikimedia Commons (bis 960 Pixel). Darstellung in der App teilweise beschnitten.",
+      "width": 928,
+      "height": 673,
+      "size": 177104,
+      "path": "/media/mauersegler-960-8c67b131.jpg"
+    }
   }
 }

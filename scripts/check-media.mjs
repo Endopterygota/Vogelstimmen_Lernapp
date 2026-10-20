@@ -1,7 +1,7 @@
 import { readFileSync, statSync } from 'node:fs';
 import assert from 'node:assert/strict';
 const media = JSON.parse(readFileSync('src/data/media.json', 'utf8'));
-assert.equal(Object.keys(media).length, 10);
+assert.equal(Object.keys(media).length, 20);
 let files = 0,
   bytes = 0;
 for (const [id, data] of Object.entries(media)) {

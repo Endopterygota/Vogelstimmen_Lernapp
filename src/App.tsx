@@ -26,6 +26,8 @@ import {
 } from 'lucide-react';
 import { birds, type Bird, type Credit } from './data/birds';
 import AudioPlayer from './AudioPlayer';
+import UpdateCard from './UpdateCard';
+import { APP_VERSION } from './updates';
 import {
   emptyProgress,
   makeQueue,
@@ -273,7 +275,7 @@ export default function App() {
             <button key={id} className={tab === id ? 'active' : ''} onClick={() => navigate(id)}>
               <Icon size={19} />
               {label}
-              {id === 'birds' && <span className="count">10</span>}
+              {id === 'birds' && <span className="count">{birds.length}</span>}
             </button>
           ))}
         </nav>
@@ -282,7 +284,7 @@ export default function App() {
             <Leaf size={20} />
             <strong>Ein Stück Natur. Für dich.</strong>
             <p>
-              10 Arten. Echte Stimmen.
+              {birds.length} Arten. Echte Stimmen.
               <br />
               Immer dabei, auch offline.
             </p>
@@ -462,7 +464,9 @@ export default function App() {
                   <button className="button hero-button" onClick={() => start('quiz')}>
                     Hörquiz starten <ArrowRight size={18} />
                   </button>
-                  <span className="hero-note">10 Fragen · in deinem Tempo · ohne Zeitdruck</span>
+                  <span className="hero-note">
+                    {length} Fragen · in deinem Tempo · ohne Zeitdruck
+                  </span>
                 </div>
                 <div className="hero-image">
                   {birds[3].image && <img src={birds[3].image.path} alt="Rotkehlchen" />}
@@ -478,7 +482,7 @@ export default function App() {
               <div className="metric-grid">
                 <Metric
                   label="Arten entdeckt"
-                  value={`${practiced} / 10`}
+                  value={`${practiced} / ${birds.length}`}
                   note="Deine heimischen Sänger"
                   icon={<BirdIcon size={19} />}
                 />
@@ -547,7 +551,7 @@ export default function App() {
               </div>
               <div className="section-heading">
                 <div>
-                  <span className="eyebrow">ZEHN STIMMEN, EIN ANFANG</span>
+                  <span className="eyebrow">HEIMISCHE STIMMEN, DEIN ANFANG</span>
                   <h2>Deine Nachbarn im Grünen</h2>
                 </div>
                 <button className="text-button" onClick={() => navigate('birds')}>
@@ -564,7 +568,7 @@ export default function App() {
             <>
               <PageHeading
                 eyebrow="DEIN KLEINES VOGELLEXIKON"
-                title="Zehn Arten. Zehn eigene Stimmen."
+                title={`${birds.length} Arten. Viele vertraute Stimmen.`}
                 subtitle="Lerne die Sänger kennen, die dir draußen begegnen."
               />
               <label className="search">
@@ -671,7 +675,9 @@ export default function App() {
                   </select>
                 </div>
                 <div className="selection-heading">
-                  <span>{selectedBirds.length} von 10 Arten ausgewählt</span>
+                  <span>
+                    {selectedBirds.length} von {birds.length} Arten ausgewählt
+                  </span>
                   <button
                     className="text-button"
                     onClick={() =>
@@ -734,7 +740,7 @@ export default function App() {
                 />
                 <Metric
                   label="Sicher erkannte Arten"
-                  value={`${mastered} / 10`}
+                  value={`${mastered} / ${birds.length}`}
                   note="Mindestens Lernstufe 3"
                   icon={<CheckCircle2 size={19} />}
                 />
@@ -841,13 +847,14 @@ export default function App() {
                   Vogelstimmen werden mit der App mitgeliefert.
                 </p>
                 <p>
-                  Quellenlinks öffnen externe Webseiten und benötigen Internet. Beim Löschen der App
-                  oder ihrer Daten geht der Lernfortschritt verloren.
+                  Quellenlinks und die freiwillige Update-Prüfung verwenden Internet. Beim Löschen
+                  der App oder ihrer Daten geht der Lernfortschritt verloren.
                 </p>
                 <button className="text-button" onClick={() => navigate('sources')}>
                   Quellen & Lizenzen ansehen <ArrowRight size={16} />
                 </button>
               </section>
+              <UpdateCard />
               <section className="panel detail-copy">
                 <h2>Neu anfangen</h2>
                 <p>Du kannst deinen gesamten Lernfortschritt zurücksetzen.</p>
@@ -856,7 +863,9 @@ export default function App() {
                   Fortschritt zurücksetzen
                 </button>
               </section>
-              <p className="muted small">Vogelstimmen · Version 0.0.1 · Für die private Nutzung</p>
+              <p className="muted small">
+                Vogelstimmen · Version {APP_VERSION} · Für die private Nutzung
+              </p>
             </>
           ) : (
             <>
@@ -898,11 +907,7 @@ export default function App() {
                     <p>
                       Eigene, zusammenfassende Lerntexte. Artübersicht und weiterführende
                       Informationen:{' '}
-                      <a
-                        href={`https://de.wikipedia.org/wiki/${encodeURIComponent(b.scientific)}`}
-                        target="_blank"
-                        rel="noreferrer"
-                      >
+                      <a href={b.infoSource} target="_blank" rel="noreferrer">
                         {b.scientific}
                       </a>
                       . Hörhilfen sind Merksätze und keine vollständige Beschreibung aller
@@ -1024,7 +1029,11 @@ export default function App() {
                     <div className="question-heading">
                       <span className="eyebrow">NIMM DIR EINEN MOMENT</span>
                       <h1>
-                        {session.mode === 'quiz' ? 'Wer singt denn da?' : 'Kennst du diese Stimme?'}
+                        {session.mode === 'quiz'
+                          ? r.kind.includes('Trommeln')
+                            ? 'Wer trommelt denn da?'
+                            : 'Wer ist zu hören?'
+                          : 'Kennst du diesen Laut?'}
                       </h1>
                       <p>Hör genau hin. Du kannst die Aufnahme beliebig oft abspielen.</p>
                     </div>
