@@ -1,0 +1,1074 @@
+{
+  "amsel": {
+    "recordings": [
+      {
+        "title": "File:Turdus merula (06 02 16).ogg",
+        "author": "No machine-readable author provided.  Taka  assumed (based on copyright claims).",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turdus_merula_(06_02_16).ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Turdus_merula_%2806_02_16%29.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Turdus_merula_%2806_02_16%29.ogg/Turdus_merula_%2806_02_16%29.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Turdus_merula_%2806_02_16%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 41227
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b3/Turdus_merula_%2806_02_16%29.ogg/Turdus_merula_%2806_02_16%29.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 86752
+          }
+        ],
+        "description": "Song of the Blackbird  Turdus merula , recorded 16 february 2006, Utrecht, Netherlands",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 169560,
+        "path": "/media/amsel-3b29ebe1ea.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Common Blackbird song (Turdus merula).ogg",
+        "author": "Diana Tudor",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Blackbird_song_(Turdus_merula).ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Common_Blackbird_song_%28Turdus_merula%29.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/Common_Blackbird_song_%28Turdus_merula%29.ogg/Common_Blackbird_song_%28Turdus_merula%29.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/30/Common_Blackbird_song_%28Turdus_merula%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 79188
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/30/Common_Blackbird_song_%28Turdus_merula%29.ogg/Common_Blackbird_song_%28Turdus_merula%29.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 137064
+          }
+        ],
+        "description": "Common Blackbird song (Turdus merula) from canopy",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 693388,
+        "path": "/media/amsel-a11dbb56a7.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Turdus merula - Common Blackbird XC123548.ogg",
+        "author": "Adrienne Eaton",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turdus_merula_-_Common_Blackbird_XC123548.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Turdus_merula_-_Common_Blackbird_XC123548.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/22/Turdus_merula_-_Common_Blackbird_XC123548.ogg/Turdus_merula_-_Common_Blackbird_XC123548.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Turdus_merula_-_Common_Blackbird_XC123548.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 195775
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/22/Turdus_merula_-_Common_Blackbird_XC123548.ogg/Turdus_merula_-_Common_Blackbird_XC123548.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 118168
+          }
+        ],
+        "description": ":Street noise has been edited out of the recording. This blackbird sat high in a cherry tree and began singing soon after sunset. He sang for nearly ten minutes, singing the last note on the recording just before flying away.\n  bird-seen:yes \n playback-used:no \n  Common name:  Common Blackbird \n  Type:  song \n  Genus:  Turdus \n  Species:  merula \n  Location:  Berlin, Berlin \n  Elevation:  30 m",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 838077,
+        "path": "/media/amsel-7161c7e25e.mp3",
+        "kind": "Gesang"
+      }
+    ],
+    "image": {
+      "title": "File:Turdus merula, Beckov, Slovakia.jpg",
+      "author": "Pudelek",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turdus_merula,_Beckov,_Slovakia.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Turdus_merula%2C_Beckov%2C_Slovakia.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Turdus_merula%2C_Beckov%2C_Slovakia.jpg/960px-Turdus_merula%2C_Beckov%2C_Slovakia.jpg",
+      "derivatives": [],
+      "description": "Turdus merula, Beckov, Slovakia",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 3456,
+      "height": 2304,
+      "size": 4754949,
+      "path": "/media/amsel-960.jpg"
+    }
+  },
+  "singdrossel": {
+    "recordings": [
+      {
+        "title": "File:Turdus philomelos in Deutschland.ogg",
+        "author": "Toffel",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turdus_philomelos_in_Deutschland.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Turdus_philomelos_in_Deutschland.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f0/Turdus_philomelos_in_Deutschland.ogg/Turdus_philomelos_in_Deutschland.ogg.mp3",
+        "description": "Gesang einer Singdrossel ( Turdus philomelos ).",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 467382,
+        "path": "/media/singdrossel-7139433b4f.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Turdus philomelos 815.ogg",
+        "author": "Barracuda1983",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turdus_philomelos_815.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Turdus_philomelos_815.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/Turdus_philomelos_815.ogg/Turdus_philomelos_815.ogg.mp3",
+        "description": "Song Thrush (  Turdus philomelos  ) in urban environment. Val de Marne (France).",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 613887,
+        "path": "/media/singdrossel-8a22fcf67f.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Turdus philomelos 816.ogg",
+        "author": "Barracuda1983",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Turdus_philomelos_816.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Turdus_philomelos_816.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/1c/Turdus_philomelos_816.ogg/Turdus_philomelos_816.ogg.mp3",
+        "description": "Song Thrush (  Turdus philomelos  ) in urban environment. Background voice of Dunnock (  Prunella modularis  ) can also be heard. Val de Marne (France).",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 1536588,
+        "path": "/media/singdrossel-e11ba45fc1.mp3",
+        "kind": "Gesang"
+      }
+    ],
+    "image": {
+      "title": "File:Song Thrush - Turdus philomelos near the Watzmannhut.jpg",
+      "author": "Thomas Fuhrmann",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Song_Thrush_-_Turdus_philomelos_near_the_Watzmannhut.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Song_Thrush_-_Turdus_philomelos_near_the_Watzmannhut.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Song_Thrush_-_Turdus_philomelos_near_the_Watzmannhut.jpg/960px-Song_Thrush_-_Turdus_philomelos_near_the_Watzmannhut.jpg",
+      "description": "Song Thrush - Turdus philomelos,Watzmannhut - hike - taken during a road trip to the Bavarian and Austrian Alps in 2026 by Thomas Fuhrmann, SnowmanStudios - see more pictures on www.snowmanstudios.de",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 3318,
+      "height": 2212,
+      "size": 5474147,
+      "path": "/media/singdrossel-960.jpg"
+    }
+  },
+  "nachtigall": {
+    "recordings": [
+      {
+        "title": "File:XC138451 - Nachtegaal - Luscinia megarhynchos.ogg",
+        "author": "Sander Pieterse",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:XC138451_-_Nachtegaal_-_Luscinia_megarhynchos.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/XC138451_-_Nachtegaal_-_Luscinia_megarhynchos.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/de/XC138451_-_Nachtegaal_-_Luscinia_megarhynchos.ogg/XC138451_-_Nachtegaal_-_Luscinia_megarhynchos.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/XC138451_-_Nachtegaal_-_Luscinia_megarhynchos.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 84322
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/de/XC138451_-_Nachtegaal_-_Luscinia_megarhynchos.ogg/XC138451_-_Nachtegaal_-_Luscinia_megarhynchos.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 134776
+          }
+        ],
+        "description": "Nachtegaal (Luscinia megarhynchos) · song",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 1067519,
+        "path": "/media/nachtigall-7328d209e8.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Nightingale (Luscinia megarhynchos).ogg",
+        "author": "Helical gear",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nightingale_(Luscinia_megarhynchos).ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Nightingale_%28Luscinia_megarhynchos%29.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c1/Nightingale_%28Luscinia_megarhynchos%29.ogg/Nightingale_%28Luscinia_megarhynchos%29.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Nightingale_%28Luscinia_megarhynchos%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 129187
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c1/Nightingale_%28Luscinia_megarhynchos%29.ogg/Nightingale_%28Luscinia_megarhynchos%29.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 128344
+          }
+        ],
+        "description": "Nightingale song recorded in Surrey, England.",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 1257078,
+        "path": "/media/nachtigall-602a07f24e.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:XN Luscinia megarhynchos 017.ogg",
+        "author": "Guido Gerding",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:XN_Luscinia_megarhynchos_017.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/XN_Luscinia_megarhynchos_017.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f5/XN_Luscinia_megarhynchos_017.ogg/XN_Luscinia_megarhynchos_017.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f5/XN_Luscinia_megarhynchos_017.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 101870
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f5/XN_Luscinia_megarhynchos_017.ogg/XN_Luscinia_megarhynchos_017.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 177992
+          }
+        ],
+        "description": "Singing Nightingale ( Luscinia megarhynchos )",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 2166293,
+        "path": "/media/nachtigall-7a8fbec6e4.mp3",
+        "kind": "Gesang"
+      }
+    ],
+    "image": {
+      "title": "File:Common Nightingale (Luscinia megarhynchos) (8079429118).jpg",
+      "author": "Ron Knight  from Seaford, East Sussex, United Kingdom",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_Nightingale_(Luscinia_megarhynchos)_(8079429118).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Common_Nightingale_%28Luscinia_megarhynchos%29_%288079429118%29.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/be/Common_Nightingale_%28Luscinia_megarhynchos%29_%288079429118%29.jpg",
+      "derivatives": [],
+      "description": "Common Nightingale  Luscinia megarhynchos golzii , Chatkal Range, Tashkent",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 960,
+      "height": 640,
+      "size": 446005,
+      "path": "/media/nachtigall-960.jpg"
+    }
+  },
+  "rotkehlchen": {
+    "recordings": [
+      {
+        "title": "File:Erithacus rubecula.ogg",
+        "author": "Vladimir Yu. Arkhipov, Arkhivov",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erithacus_rubecula.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Erithacus_rubecula.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/Erithacus_rubecula.ogg/Erithacus_rubecula.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Erithacus_rubecula.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 132131
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8d/Erithacus_rubecula.ogg/Erithacus_rubecula.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 211488
+          }
+        ],
+        "description": "Song of European Robin, Tver region, Russia",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 269077,
+        "path": "/media/rotkehlchen-5ffefb36a1.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:XC27161 - Roodborst - Erithacus rubecula.ogg",
+        "author": "Sander Pieterse",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:XC27161_-_Roodborst_-_Erithacus_rubecula.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/XC27161_-_Roodborst_-_Erithacus_rubecula.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/13/XC27161_-_Roodborst_-_Erithacus_rubecula.ogg/XC27161_-_Roodborst_-_Erithacus_rubecula.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/XC27161_-_Roodborst_-_Erithacus_rubecula.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 65706
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/13/XC27161_-_Roodborst_-_Erithacus_rubecula.ogg/XC27161_-_Roodborst_-_Erithacus_rubecula.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 113320
+          }
+        ],
+        "description": "Roodborst (Erithacus rubecula) · song",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 707593,
+        "path": "/media/rotkehlchen-427a0b0b27.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:120401-132827 Erithacus rubecula.ogg",
+        "author": "Gilles San Martin",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:120401-132827_Erithacus_rubecula.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/120401-132827_Erithacus_rubecula.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/29/120401-132827_Erithacus_rubecula.ogg/120401-132827_Erithacus_rubecula.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/120401-132827_Erithacus_rubecula.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 188139
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/29/120401-132827_Erithacus_rubecula.ogg/120401-132827_Erithacus_rubecula.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 181504
+          }
+        ],
+        "description": "Robin (Erithacus rubecula) territorial song.\nLocation : Doische, Belgium, 01 April 2012\n \nMaterial : Zoom H2n, MS mode",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 1238268,
+        "path": "/media/rotkehlchen-7f6202cebf.mp3",
+        "kind": "Gesang"
+      }
+    ],
+    "image": {
+      "title": "File:Erithacus rubecula Radès Méliane.jpg",
+      "author": "Smailtn",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_Rad%C3%A8s_M%C3%A9liane.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Erithacus_rubecula_Rad%C3%A8s_M%C3%A9liane.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Erithacus_rubecula_Rad%C3%A8s_M%C3%A9liane.jpg/960px-Erithacus_rubecula_Rad%C3%A8s_M%C3%A9liane.jpg",
+      "derivatives": [],
+      "description": "Erithacus rubecula Radès Méliane",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 3030,
+      "height": 2020,
+      "size": 3787019,
+      "path": "/media/rotkehlchen-960.jpg"
+    }
+  },
+  "zaunkoenig": {
+    "recordings": [
+      {
+        "title": "File:Troglodytes troglodytes song.ogg",
+        "author": "Grantus4504",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Troglodytes_troglodytes_song.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Troglodytes_troglodytes_song.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f9/Troglodytes_troglodytes_song.ogg/Troglodytes_troglodytes_song.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Troglodytes_troglodytes_song.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 97101
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f9/Troglodytes_troglodytes_song.ogg/Troglodytes_troglodytes_song.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 144296
+          }
+        ],
+        "description": "Male Wren (Troglodytes troglodytes) singing in the morning. Millcombe, Lundy, UK",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 238384,
+        "path": "/media/zaunkoenig-d41a05fdf0.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:XC27159 - Winterkoning - Troglodytes troglodytes.ogg",
+        "author": "Sander Pieterse",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:XC27159_-_Winterkoning_-_Troglodytes_troglodytes.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/XC27159_-_Winterkoning_-_Troglodytes_troglodytes.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e1/XC27159_-_Winterkoning_-_Troglodytes_troglodytes.ogg/XC27159_-_Winterkoning_-_Troglodytes_troglodytes.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/XC27159_-_Winterkoning_-_Troglodytes_troglodytes.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 66793
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e1/XC27159_-_Winterkoning_-_Troglodytes_troglodytes.ogg/XC27159_-_Winterkoning_-_Troglodytes_troglodytes.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 114816
+          }
+        ],
+        "description": "Winterkoning (Troglodytes troglodytes) · song",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 610461,
+        "path": "/media/zaunkoenig-e1049c1598.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Troglodytes troglodytes - Eurasian Wren XC125791.ogg",
+        "author": "Dan Stowell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Troglodytes_troglodytes_-_Eurasian_Wren_XC125791.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Troglodytes_troglodytes_-_Eurasian_Wren_XC125791.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f8/Troglodytes_troglodytes_-_Eurasian_Wren_XC125791.ogg/Troglodytes_troglodytes_-_Eurasian_Wren_XC125791.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Troglodytes_troglodytes_-_Eurasian_Wren_XC125791.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 393217
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f8/Troglodytes_troglodytes_-_Eurasian_Wren_XC125791.ogg/Troglodytes_troglodytes_-_Eurasian_Wren_XC125791.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 211280
+          }
+        ],
+        "description": ":Didn't see the bird. The species is inferred from the recording.\n  Recorded direct to MP3 with Edirol R09, no postprocessing (just split-without-decoding using mp3splt). \n bird-seen:no \n playback-used:no \n  Common name:  Eurasian Wren \n  Type:  song \n  Genus:  Troglodytes \n  Species:  troglodytes \n  Location:  Rennes, Ille-et-Vilaine, Brittany \n  Elevation:  50 m",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 1132467,
+        "path": "/media/zaunkoenig-5c1f92c201.mp3",
+        "kind": "Gesang"
+      }
+    ],
+    "image": {
+      "title": "File:Крапивник-Eurasian Wren (Troglodytes troglodytes).jpg",
+      "author": "Мухаммадсолех Оев",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9A%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%BD%D0%B8%D0%BA-Eurasian_Wren_(Troglodytes_troglodytes).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/%D0%9A%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%BD%D0%B8%D0%BA-Eurasian_Wren_%28Troglodytes_troglodytes%29.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%D0%9A%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%BD%D0%B8%D0%BA-Eurasian_Wren_%28Troglodytes_troglodytes%29.jpg/960px-%D0%9A%D1%80%D0%B0%D0%BF%D0%B8%D0%B2%D0%BD%D0%B8%D0%BA-Eurasian_Wren_%28Troglodytes_troglodytes%29.jpg",
+      "derivatives": [],
+      "description": "This is a photo of a protected area in Tajikistan",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 3435,
+      "height": 2285,
+      "size": 441070,
+      "path": "/media/zaunkoenig-960.jpg"
+    }
+  },
+  "moenchsgrasmuecke": {
+    "recordings": [
+      {
+        "title": "File:Sylvia atricapilla.ogg",
+        "author": "Vladimir Yu. Arkhipov, Arkhivov",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sylvia_atricapilla.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Sylvia_atricapilla.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5f/Sylvia_atricapilla.ogg/Sylvia_atricapilla.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Sylvia_atricapilla.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 131690
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5f/Sylvia_atricapilla.ogg/Sylvia_atricapilla.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 197592
+          }
+        ],
+        "description": "Song of Blackcap, Moscow oblast, Russia",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 282648,
+        "path": "/media/moenchsgrasmuecke-d574c6181a.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Blackcap (Sylvia atricapilla) (W1CDR0001539 BD11).ogg",
+        "author": "Williams, Aubrey John / © The British Library Board",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blackcap_(Sylvia_atricapilla)_(W1CDR0001539_BD11).ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Blackcap_%28Sylvia_atricapilla%29_%28W1CDR0001539_BD11%29.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3c/Blackcap_%28Sylvia_atricapilla%29_%28W1CDR0001539_BD11%29.ogg/Blackcap_%28Sylvia_atricapilla%29_%28W1CDR0001539_BD11%29.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Blackcap_%28Sylvia_atricapilla%29_%28W1CDR0001539_BD11%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 209261
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/3/3c/Blackcap_%28Sylvia_atricapilla%29_%28W1CDR0001539_BD11%29.ogg/Blackcap_%28Sylvia_atricapilla%29_%28W1CDR0001539_BD11%29.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 131400
+          }
+        ],
+        "description": "Song of a male Blackcap, recorded at Camberley, Surrey, England",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 1266529,
+        "path": "/media/moenchsgrasmuecke-9dc5113473.mp3",
+        "kind": "Gesang"
+      }
+    ],
+    "image": {
+      "title": "File:Sylvia atricapilla JdP 20190405 t112815.jpg",
+      "author": "Marie-Lan Taÿ Pamart",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sylvia_atricapilla_JdP_20190405_t112815.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Sylvia_atricapilla_JdP_20190405_t112815.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Sylvia_atricapilla_JdP_20190405_t112815.jpg/960px-Sylvia_atricapilla_JdP_20190405_t112815.jpg",
+      "derivatives": [],
+      "description": "Female Eurasian Blackcap ( Sylvia atricapilla ) foraging in the ivy surrounding a black locust tree ( Robinia pseudoacacia ) in the Jardin des Plantes of Paris.",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 3000,
+      "height": 2000,
+      "size": 2448083,
+      "path": "/media/moenchsgrasmuecke-960.jpg"
+    }
+  },
+  "kohlmeise": {
+    "recordings": [
+      {
+        "title": "File:Parus major 15mars2011.ogg",
+        "author": "Dengis Chantal",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parus_major_15mars2011.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Parus_major_15mars2011.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9c/Parus_major_15mars2011.ogg/Parus_major_15mars2011.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Parus_major_15mars2011.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 97077
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/9c/Parus_major_15mars2011.ogg/Parus_major_15mars2011.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 112640
+          }
+        ],
+        "description": "Great Tit ( Parus major ) : song recorded in Seraing (Belgium) the 15-03-2011 with a parabolic reflector, a  Sennheiser ME-40  microphone and a  Tascam DR-100 .",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 63262,
+        "path": "/media/kohlmeise-f5ae1ef9f4.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Parus major song.ogg",
+        "author": "Vladimir Yu. Arkhipov, Arkhivov",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parus_major_song.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Parus_major_song.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/eb/Parus_major_song.ogg/Parus_major_song.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Parus_major_song.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 131509
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/eb/Parus_major_song.ogg/Parus_major_song.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 209472
+          }
+        ],
+        "description": "Song of Great Tit, Moscow oblast, Russia",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 311004,
+        "path": "/media/kohlmeise-b52ce42ec6.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Great Tit (Parus major) (W1CDR0001393 BD1).ogg",
+        "author": "Shove, Lawrence / © The British Library Board",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Tit_(Parus_major)_(W1CDR0001393_BD1).ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Great_Tit_%28Parus_major%29_%28W1CDR0001393_BD1%29.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Great_Tit_%28Parus_major%29_%28W1CDR0001393_BD1%29.ogg/Great_Tit_%28Parus_major%29_%28W1CDR0001393_BD1%29.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Great_Tit_%28Parus_major%29_%28W1CDR0001393_BD1%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 206490
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/cd/Great_Tit_%28Parus_major%29_%28W1CDR0001393_BD1%29.ogg/Great_Tit_%28Parus_major%29_%28W1CDR0001393_BD1%29.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 129256
+          }
+        ],
+        "description": "An example of one of the song types of the male Great Tit, recorded in the UK",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 1465521,
+        "path": "/media/kohlmeise-1a05313285.mp3",
+        "kind": "Gesang"
+      }
+    ],
+    "image": {
+      "title": "File:Great tit (Parus major) Drenthe.jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_tit_(Parus_major)_Drenthe.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Great_tit_%28Parus_major%29_Drenthe.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Great_tit_%28Parus_major%29_Drenthe.jpg/960px-Great_tit_%28Parus_major%29_Drenthe.jpg",
+      "derivatives": [],
+      "description": "Great tit ( Parus major ), Drenthe, Netherlands",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 4746,
+      "height": 3164,
+      "size": 7170158,
+      "path": "/media/kohlmeise-960.jpg"
+    }
+  },
+  "blaumeise": {
+    "recordings": [
+      {
+        "title": "File:Cyanistes caeruleus.ogg",
+        "author": "Vladimir Yu. Arkhipov, Arkhivov",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Cyanistes_caeruleus.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/Cyanistes_caeruleus.ogg/Cyanistes_caeruleus.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Cyanistes_caeruleus.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 133198
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/9/91/Cyanistes_caeruleus.ogg/Cyanistes_caeruleus.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 128536
+          }
+        ],
+        "description": "Song of Blue Tit, Kaluga region, Russia",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 149922,
+        "path": "/media/blaumeise-d9bbc0c4eb.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Cyanistes caeruleus - Eurasian Blue Tit XC121562.ogg",
+        "author": "Adrienne Eaton",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC121562.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC121562.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC121562.ogg/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC121562.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC121562.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 161095
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/26/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC121562.ogg/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC121562.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 116216
+          }
+        ],
+        "description": ":Recorded from my balcony near the Tiergarten, Berlin. The clip was edited to remove street sounds.\n  bird-seen:no \n playback-used:no \n  Common name:  Eurasian Blue Tit \n  Type:  song \n  Genus:  Cyanistes \n  Species:  caeruleus \n  Location:  Berlin, Berlin \n  Elevation:  30 m",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 375583,
+        "path": "/media/blaumeise-ce13756e47.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Cyanistes caeruleus - Eurasian Blue Tit XC131316.ogg",
+        "author": "Dan Stowell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC131316.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC131316.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC131316.ogg/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC131316.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC131316.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 383186
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/42/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC131316.ogg/Cyanistes_caeruleus_-_Eurasian_Blue_Tit_XC131316.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 212032
+          }
+        ],
+        "description": ":Blue tit in a tree about 7m directly above me, making this slightly agitated sound. In the second half of the recording it's back to the familiar song. Then it flitted off.\n  bird-seen:yes \n playback-used:no \n  Common name:  Eurasian Blue Tit \n  Type:  song \n  Genus:  Cyanistes \n  Species:  caeruleus \n  Location:  Woodford, London \n  Elevation:  40 m",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 2543730,
+        "path": "/media/blaumeise-d1f313943b.mp3",
+        "kind": "Gesang"
+      }
+    ],
+    "image": {
+      "title": "File:CYANISTES CAERULEUS.jpg",
+      "author": "Veikkovart",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CYANISTES_CAERULEUS.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/CYANISTES_CAERULEUS.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CYANISTES_CAERULEUS.jpg/960px-CYANISTES_CAERULEUS.jpg",
+      "derivatives": [],
+      "description": "Tartumaa",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 6000,
+      "height": 4000,
+      "size": 6121841,
+      "path": "/media/blaumeise-960.jpg"
+    }
+  },
+  "haussperling": {
+    "recordings": [
+      {
+        "title": "File:House Sparrows (Passer domesticus) (W1CDR0001537 BD13).ogg",
+        "author": "Williams, Aubrey John / © The British Library Board",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:House_Sparrows_(Passer_domesticus)_(W1CDR0001537_BD13).ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/House_Sparrows_%28Passer_domesticus%29_%28W1CDR0001537_BD13%29.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/House_Sparrows_%28Passer_domesticus%29_%28W1CDR0001537_BD13%29.ogg/House_Sparrows_%28Passer_domesticus%29_%28W1CDR0001537_BD13%29.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/House_Sparrows_%28Passer_domesticus%29_%28W1CDR0001537_BD13%29.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 209818
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/ba/House_Sparrows_%28Passer_domesticus%29_%28W1CDR0001537_BD13%29.ogg/House_Sparrows_%28Passer_domesticus%29_%28W1CDR0001537_BD13%29.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 130872
+          }
+        ],
+        "description": "Song and calls uttered by a House Sparrow, recorded at Cowley, Gloucestershire, England",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 2103005,
+        "path": "/media/haussperling-a23876507e.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Passer domesticus - House Sparrow XC124181.ogg",
+        "author": "Jonathon Jongsma",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Passer_domesticus_-_House_Sparrow_XC124181.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Passer_domesticus_-_House_Sparrow_XC124181.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5f/Passer_domesticus_-_House_Sparrow_XC124181.ogg/Passer_domesticus_-_House_Sparrow_XC124181.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Passer_domesticus_-_House_Sparrow_XC124181.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 410760
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/5/5f/Passer_domesticus_-_House_Sparrow_XC124181.ogg/Passer_domesticus_-_House_Sparrow_XC124181.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 212064
+          }
+        ],
+        "description": ":Two birds calling from a tree in back yard.  The lower-pitched bird was a male; the gender of the higher-pitched one is unknown.\n  Lightly filtered low frequencies for traffic noise.  Recorded with homemade parabolic reflector and Olympus LS-10S. \n bird-seen:yes \n playback-used:no \n  Common name:  House Sparrow \n  Type:  call \n  Genus:  Passer \n  Species:  domesticus \n  Location:  Powderhorn Park, Minneapolis, MN \n  Elevation:  260 m",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 2194695,
+        "path": "/media/haussperling-4e7c12fb93.mp3",
+        "kind": "Ruf"
+      }
+    ],
+    "image": {
+      "title": "File:Moineau domestique (Passer domesticus) (14).jpg",
+      "author": "Gzen92",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moineau_domestique_(Passer_domesticus)_(14).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Moineau_domestique_%28Passer_domesticus%29_%2814%29.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Moineau_domestique_%28Passer_domesticus%29_%2814%29.jpg/960px-Moineau_domestique_%28Passer_domesticus%29_%2814%29.jpg",
+      "derivatives": [],
+      "description": "House sparrow ( Passer domesticus ) in Colmar (Haut-Rhin, France).",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 5472,
+      "height": 3648,
+      "size": 4848575,
+      "path": "/media/haussperling-960.jpg"
+    }
+  },
+  "zilpzalp": {
+    "recordings": [
+      {
+        "title": "File:Chiffchaff (Phylloscopus collybita)song Germany.ogg",
+        "author": "Kolmkolm",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiffchaff_(Phylloscopus_collybita)song_Germany.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Chiffchaff_%28Phylloscopus_collybita%29song_Germany.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2c/Chiffchaff_%28Phylloscopus_collybita%29song_Germany.ogg/Chiffchaff_%28Phylloscopus_collybita%29song_Germany.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Chiffchaff_%28Phylloscopus_collybita%29song_Germany.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 253114
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/2c/Chiffchaff_%28Phylloscopus_collybita%29song_Germany.ogg/Chiffchaff_%28Phylloscopus_collybita%29song_Germany.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 141488
+          }
+        ],
+        "description": "Common Chiffchaff song, recorded in Rhineland-Palatinate, Germany in May 2020.",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 160929,
+        "path": "/media/zilpzalp-6bd0b12c7b.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Phylloscopus collybita - Common Chiffchaff XC125867.ogg",
+        "author": "Dan Stowell",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phylloscopus_collybita_-_Common_Chiffchaff_XC125867.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Phylloscopus_collybita_-_Common_Chiffchaff_XC125867.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/Phylloscopus_collybita_-_Common_Chiffchaff_XC125867.ogg/Phylloscopus_collybita_-_Common_Chiffchaff_XC125867.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Phylloscopus_collybita_-_Common_Chiffchaff_XC125867.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 391533
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/Phylloscopus_collybita_-_Common_Chiffchaff_XC125867.ogg/Phylloscopus_collybita_-_Common_Chiffchaff_XC125867.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 211440
+          }
+        ],
+        "description": ":Chiffchaff singing in a tree by a lake in Rennes, on a bright morning. On its third bout, the bird does some slightly unusual syllables as it \"warms up\" into the sequence.\n  There's quite a prominent wren heard in the recording too. \n Recorded direct to MP3 with Edirol R09, no postprocessing (just split-without-decoding using mp3splt). \n bird-seen:yes \n playback-used:no \n  Common name:  Common Chiffchaff \n  Type:  song \n  Genus:  Phylloscopus \n  Species:  collybita \n  Location:  Rennes, Ille-et-Vilaine, Brittany \n  Elevation:  50 m",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 1077756,
+        "path": "/media/zilpzalp-881e21ca9f.mp3",
+        "kind": "Gesang"
+      },
+      {
+        "title": "File:Phylloscopus collybita 7029.ogg",
+        "author": "T.Voekler",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phylloscopus_collybita_7029.ogg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Phylloscopus_collybita_7029.ogg",
+        "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/Phylloscopus_collybita_7029.ogg/Phylloscopus_collybita_7029.ogg.mp3",
+        "derivatives": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Phylloscopus_collybita_7029.ogg?utm_source=commons.wikimedia.org&utm_campaign=api&utm_content=original",
+            "type": "audio/ogg; codecs=\"vorbis\"",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 236054
+          },
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/transcoded/2/25/Phylloscopus_collybita_7029.ogg/Phylloscopus_collybita_7029.ogg.mp3",
+            "type": "audio/mpeg",
+            "transcodekey": "mp3",
+            "width": 0,
+            "height": 0,
+            "bandwidth": 129392
+          }
+        ],
+        "description": "A Chiffchaff ( Phylloscopus collybita ) is singing in a tree. Cologne (Germany).",
+        "changes": "MP3-Fassung von Wikimedia Commons; inhaltlich ungekürzt und unverändert.",
+        "width": 0,
+        "height": 0,
+        "size": 1116747,
+        "path": "/media/zilpzalp-741a068db8.mp3",
+        "kind": "Gesang"
+      }
+    ],
+    "image": {
+      "title": "File:Chiffchaff (Phylloscopus collybita) Hungary.jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiffchaff_(Phylloscopus_collybita)_Hungary.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Chiffchaff_%28Phylloscopus_collybita%29_Hungary.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Chiffchaff_%28Phylloscopus_collybita%29_Hungary.jpg/960px-Chiffchaff_%28Phylloscopus_collybita%29_Hungary.jpg",
+      "derivatives": [],
+      "description": "Chiffchaff ( Phylloscopus collybita ), Kondor Tanya, near Kecskemét, Hungary",
+      "changes": "Auf 960 Pixel verkleinerte Fassung von Wikimedia Commons. Darstellung in der App teilweise beschnitten.",
+      "width": 2901,
+      "height": 1934,
+      "size": 2947259,
+      "path": "/media/zilpzalp-960.jpg"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Vogelstimmen</string>
+    <string name="title_activity_main">Vogelstimmen</string>
+    <string name="package_name">de.endopterygota.vogelstimmen</string>
+    <string name="custom_url_scheme">de.endopterygota.vogelstimmen</string>
+</resources>
