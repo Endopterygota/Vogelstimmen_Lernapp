@@ -27,7 +27,7 @@ pnpm android:apk
 
 ## Privat auf Android installieren
 
-1. `artifacts/Vogelstimmen-0.1.0.apk` aufs Smartphone übertragen.
+1. `artifacts/Vogelstimmen-0.0.1.apk` aufs Smartphone übertragen.
 2. APK öffnen und bei Bedarf die Installation für die verwendete Datei-App erlauben.
 3. Installieren. Danach funktionieren Lexikon, Bilder, Audio und Training im Flugmodus.
 

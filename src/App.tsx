@@ -856,7 +856,7 @@ export default function App() {
                   Fortschritt zurücksetzen
                 </button>
               </section>
-              <p className="muted small">Vogelstimmen · Version 0.1.0 · Für die private Nutzung</p>
+              <p className="muted small">Vogelstimmen · Version 0.0.1 · Für die private Nutzung</p>
             </>
           ) : (
             <>

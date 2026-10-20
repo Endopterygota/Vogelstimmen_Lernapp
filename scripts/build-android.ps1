@@ -11,5 +11,7 @@ if ($LASTEXITCODE -ne 0) { throw 'Android-Synchronisierung fehlgeschlagen.' }
 & '.\android\gradlew.bat' -p android assembleDebug --console=plain
 if ($LASTEXITCODE -ne 0) { throw 'Android-Build fehlgeschlagen.' }
 New-Item -ItemType Directory -Force artifacts | Out-Null
-Copy-Item -LiteralPath 'android\app\build\outputs\apk\debug\app-debug.apk' -Destination 'artifacts\Vogelstimmen-0.1.0.apk' -Force
-Write-Output 'APK: artifacts\Vogelstimmen-0.1.0.apk'
+$appVersion = (Get-Content -LiteralPath 'package.json' -Raw | ConvertFrom-Json).version
+$apkPath = "artifacts\Vogelstimmen-$appVersion.apk"
+Copy-Item -LiteralPath 'android\app\build\outputs\apk\debug\app-debug.apk' -Destination $apkPath -Force
+Write-Output "APK: $apkPath"
